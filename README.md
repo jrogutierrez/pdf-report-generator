@@ -7,6 +7,7 @@ Report Generator (Desktop App)
 ![Electron](https://img.shields.io/badge/Electron-34-47848F?logo=electron)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.2-38B2AC?logo=tailwindcss)
 ![jsPDF](https://img.shields.io/badge/jsPDF-PDF_Generation-red)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
 ## 💡 The Problem
 Psychologists and HR professionals were spending hours manually copying and pasting patient data (Name, ID, Date) into Word templates to generate evaluation reports. This repetitive task was prone to human error and wasted valuable time.
@@ -100,6 +101,11 @@ Output the installer in the dist/ directory.
 Built with 💻 and ☕ by José Roberto Gutiérrez (Replace with your actual name).
 
 I built this project to solve a real-world problem for a real user. I'm currently looking for new opportunities as a Frontend/Fullstack Developer. If you're looking for someone who focuses on pragmatic solutions, clean architecture, and user experience, let's connect!
+
+## 📄 License
+
+This project is licensed under the MIT License. 
+See the [LICENSE](./LICENSE) file for details.
 
 LinkedIn: https://www.linkedin.com/in/jrogutierrez/
 Portfolio: https://claramente.pro/
