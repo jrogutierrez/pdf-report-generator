@@ -102,6 +102,9 @@ Built with 💻 and ☕ by José Roberto Gutiérrez (Replace with your actual na
 
 I built this project to solve a real-world problem for a real user. I'm currently looking for new opportunities as a Frontend/Fullstack Developer. If you're looking for someone who focuses on pragmatic solutions, clean architecture, and user experience, let's connect!
 
+⚠️ The seal image included is a generic placeholder. 
+ In production, it is replaced with the professional's official seal.
+
 ## 📄 License
 
 This project is licensed under the MIT License. 
