@@ -50,6 +50,10 @@ The UI uses modern CSS `oklch()` color spaces (via Tailwind), which `html2canvas
 ### 4. State Management
 Used a Finite State Machine (FSM) approach with React's `useState` in the parent component to control the application flow, lifting state up and passing callbacks (`onSubmit`, `onExported`) to child components.
 
+## 📄 License
+This project is licensed under the MIT License. 
+See the [LICENSE](./LICENSE) file for details.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -104,11 +108,6 @@ I built this project to solve a real-world problem for a real user. I'm currentl
 
 ⚠️ The seal image included is a generic placeholder. 
  In production, it is replaced with the professional's official seal.
-
-## 📄 License
-
-This project is licensed under the MIT License. 
-See the [LICENSE](./LICENSE) file for details.
 
 LinkedIn: https://www.linkedin.com/in/jrogutierrez/
 Portfolio: https://claramente.pro/
