@@ -98,7 +98,7 @@ Output the installer in the dist/ directory.
  Implement auto-updates using electron-updater.
  
 👤 Author & Contact
-Built with 💻 and ☕ by José Roberto Gutiérrez (Replace with your actual name).
+Built with 💻 and ☕ by José Roberto Gutiérrez.
 
 I built this project to solve a real-world problem for a real user. I'm currently looking for new opportunities as a Frontend/Fullstack Developer. If you're looking for someone who focuses on pragmatic solutions, clean architecture, and user experience, let's connect!
 
